@@ -133,7 +133,7 @@ Open and start debugging the project to examine its default behavior:
         ]
     }
     ```
-
+1. Close the **launch.json** file to avoid debugging errors.
 1. To start debugging the solution, press <kbd>F5</kbd> or select **Start**.
 1. Two pages open in the browser:
 
